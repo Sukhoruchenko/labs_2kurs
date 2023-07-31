@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Set.cpp
+  Создание кода...
+c:\users\acer\source\repos\classset\classset\set.cpp(155): warning C4715: Set::Max: значение возвращается не при всех путях выполнения
+  ClassSet.vcxproj -> C:\Users\acer\source\repos\ClassSet\Debug\ClassSet.exe

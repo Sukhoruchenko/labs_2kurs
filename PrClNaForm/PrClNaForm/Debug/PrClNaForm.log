@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\acer\source\repos\prclnaform\prclnaform\myform.h(419): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\acer\source\repos\prclnaform\prclnaform\myform.h(428): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\acer\source\repos\prclnaform\prclnaform\myform.h(429): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  PrClNaForm.vcxproj -> C:\Users\acer\source\repos\PrClNaForm\Debug\PrClNaForm.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\acer\source\repos\massivshablon\massivshablon\source.cpp(6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\acer\source\repos\massivshablon\massivshablon\array.h(120): warning C4715: Array<char>::Find: значение возвращается не при всех путях выполнения
+  MassivShablon.vcxproj -> C:\Users\acer\source\repos\MassivShablon\Debug\MassivShablon.exe
